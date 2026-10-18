@@ -1,0 +1,1 @@
+finder-app/writer: cannot open `finder-app/writer' (No such file or directory)
